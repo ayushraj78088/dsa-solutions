@@ -4,9 +4,13 @@ public:
         unordered_map<string, vector<string>> mp;
 
         for (string str : strs) {
-            string s = str;
-            sort(s.begin(), s.end());
-            mp[s].push_back(str);
+            vector<int> count(26);
+            for (int i = 0; i < str.length(); i++) count[str[i] - 'a']++;
+
+            string key = "";
+            for (int i = 0; i < 26; i++) key += to_string(count[i]) + "#";
+
+            mp[key].push_back(str);
         }
 
         vector<vector<string>> ans;
