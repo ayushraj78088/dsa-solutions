@@ -5,22 +5,23 @@ public:
 
         for (int num : nums) freq[num]++;
 
-        priority_queue<pair<int,int> , vector<pair<int,int>>, greater<pair<int,int>> > pq;
+        int n = nums.size();
+        vector<vector<int>> bucket(n + 1);
 
         for (auto x : freq) {
-            pq.push({x.second, x.first});
-
-            if (pq.size() > k) {
-                pq.pop();
-            }
+            bucket[x.second].push_back(x.first);
         }
 
         vector<int> ans;
-        while (!pq.empty()) {
-            int ele = pq.top().second;
-            ans.push_back(ele);
+        for (int i = n; i >= 1 && k > 0; i--) {
+            if (!bucket[i].empty()) {
 
-            pq.pop();
+                for (int x : bucket[i]) {
+                    ans.push_back(x);
+                    k--;
+                    if (k == 0) break;
+                }
+            }
         }
 
         return ans;
