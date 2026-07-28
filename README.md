@@ -27,6 +27,7 @@ Leetcode and Github
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/ayushraj78088/dsa-solutions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/ayushraj78088/dsa-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -41,6 +42,7 @@ Leetcode and Github
 | ------- |
 | [0039-combination-sum](https://github.com/ayushraj78088/dsa-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ayushraj78088/dsa-solutions/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/ayushraj78088/dsa-solutions/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,6 +58,7 @@ Leetcode and Github
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ayushraj78088/dsa-solutions/tree/master/0049-group-anagrams) |
+| [0131-palindrome-partitioning](https://github.com/ayushraj78088/dsa-solutions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/ayushraj78088/dsa-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayushraj78088/dsa-solutions/tree/master/0344-reverse-string) |
 ## Divide and Conquer
