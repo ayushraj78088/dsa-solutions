@@ -8,6 +8,7 @@ Leetcode and Github
 | ------- |
 | [0001-two-sum](https://github.com/ayushraj78088/dsa-solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/ayushraj78088/dsa-solutions/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/ayushraj78088/dsa-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ayushraj78088/dsa-solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/ayushraj78088/dsa-solutions/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/ayushraj78088/dsa-solutions/tree/master/0217-contains-duplicate) |
@@ -23,6 +24,7 @@ Leetcode and Github
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ayushraj78088/dsa-solutions/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/ayushraj78088/dsa-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -101,4 +103,8 @@ Leetcode and Github
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ayushraj78088/dsa-solutions/tree/master/0344-reverse-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ayushraj78088/dsa-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
