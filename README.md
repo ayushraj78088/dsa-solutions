@@ -60,6 +60,7 @@ Leetcode and Github
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ayushraj78088/dsa-solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/ayushraj78088/dsa-solutions/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/ayushraj78088/dsa-solutions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/ayushraj78088/dsa-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayushraj78088/dsa-solutions/tree/master/0344-reverse-string) |
