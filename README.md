@@ -92,6 +92,7 @@ Leetcode and Github
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/ayushraj78088/dsa-solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
 | ------- |
@@ -139,4 +140,12 @@ Leetcode and Github
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ayushraj78088/dsa-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ayushraj78088/dsa-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
