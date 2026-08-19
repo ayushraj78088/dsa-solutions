@@ -11,13 +11,13 @@
  */
 class Solution {
 public:
-    int height(TreeNode* node, int& maxi) {
-        if (node == NULL) return 0;
+    int height(TreeNode* node, int& dia) {
+        if (!node) return 0;
 
-        int lh = height(node->left, maxi);
-        int rh = height(node->right, maxi);
+        int lh = height(node->left, dia);
+        int rh = height(node->right, dia);
 
-        maxi = max(maxi, lh + rh);
+        dia = max(dia, lh + rh);
 
         return 1 + max(lh, rh);
     }
