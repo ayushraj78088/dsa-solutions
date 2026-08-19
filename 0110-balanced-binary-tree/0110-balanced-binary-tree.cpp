@@ -12,7 +12,7 @@
 class Solution {
 public:
     int height(TreeNode* node) {
-        if (node == NULL) return 0;
+        if (!node) return 0;
 
         int lh = height(node->left);
         if (lh == -1) return -1;
@@ -22,7 +22,7 @@ public:
 
         if (abs(lh - rh) > 1) return -1;
 
-        return 1 + max(lh, rh);
+        return 1 + max(lh, rh); 
     }
 
     bool isBalanced(TreeNode* root) {
