@@ -13,7 +13,7 @@ class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
-        if (root == NULL) return ans;
+        if (!root) return ans;
 
         TreeNode* curr = root;
 
@@ -30,7 +30,7 @@ public:
 
             ans.push_back(curr->val);
 
-            curr = curr->right;
+            curr  = curr->right;
         }
 
         return ans;
