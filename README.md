@@ -47,6 +47,7 @@ Leetcode and Github
 | [0039-combination-sum](https://github.com/ayushraj78088/dsa-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ayushraj78088/dsa-solutions/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/ayushraj78088/dsa-solutions/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/ayushraj78088/dsa-solutions/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Leetcode and Github
 | [0058-length-of-last-word](https://github.com/ayushraj78088/dsa-solutions/tree/master/0058-length-of-last-word) |
 | [0131-palindrome-partitioning](https://github.com/ayushraj78088/dsa-solutions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/ayushraj78088/dsa-solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/ayushraj78088/dsa-solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/ayushraj78088/dsa-solutions/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
@@ -107,6 +109,7 @@ Leetcode and Github
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushraj78088/dsa-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/ayushraj78088/dsa-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -119,6 +122,7 @@ Leetcode and Github
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushraj78088/dsa-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/ayushraj78088/dsa-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -133,6 +137,7 @@ Leetcode and Github
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushraj78088/dsa-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/ayushraj78088/dsa-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Two Pointers
 |  |
