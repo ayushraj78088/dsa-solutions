@@ -69,6 +69,7 @@ Leetcode and Github
 | [0131-palindrome-partitioning](https://github.com/ayushraj78088/dsa-solutions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/ayushraj78088/dsa-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ayushraj78088/dsa-solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/ayushraj78088/dsa-solutions/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
@@ -112,6 +113,7 @@ Leetcode and Github
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushraj78088/dsa-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/ayushraj78088/dsa-solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -125,6 +127,7 @@ Leetcode and Github
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ayushraj78088/dsa-solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -141,6 +144,7 @@ Leetcode and Github
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushraj78088/dsa-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/ayushraj78088/dsa-solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Two Pointers
 |  |
@@ -159,6 +163,7 @@ Leetcode and Github
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -168,6 +173,7 @@ Leetcode and Github
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ayushraj78088/dsa-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Queue
 |  |
 | ------- |
