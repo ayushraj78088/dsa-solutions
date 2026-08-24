@@ -95,6 +95,7 @@ Leetcode and Github
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ayushraj78088/dsa-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/ayushraj78088/dsa-solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -108,6 +109,7 @@ Leetcode and Github
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ayushraj78088/dsa-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushraj78088/dsa-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -123,6 +125,7 @@ Leetcode and Github
 | [0101-symmetric-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ayushraj78088/dsa-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushraj78088/dsa-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -139,6 +142,7 @@ Leetcode and Github
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ayushraj78088/dsa-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushraj78088/dsa-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushraj78088/dsa-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -182,4 +186,8 @@ Leetcode and Github
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ayushraj78088/dsa-solutions/tree/master/0222-count-complete-tree-nodes) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ayushraj78088/dsa-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
