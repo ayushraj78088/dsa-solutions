@@ -117,6 +117,7 @@ Leetcode and Github
 | [0257-binary-tree-paths](https://github.com/ayushraj78088/dsa-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -150,6 +151,7 @@ Leetcode and Github
 | [0257-binary-tree-paths](https://github.com/ayushraj78088/dsa-solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -190,4 +192,8 @@ Leetcode and Github
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayushraj78088/dsa-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
