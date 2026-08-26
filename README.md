@@ -10,6 +10,7 @@ Leetcode and Github
 | [0039-combination-sum](https://github.com/ayushraj78088/dsa-solutions/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/ayushraj78088/dsa-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ayushraj78088/dsa-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ayushraj78088/dsa-solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/ayushraj78088/dsa-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ayushraj78088/dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ayushraj78088/dsa-solutions/tree/master/0217-contains-duplicate) |
@@ -57,6 +58,7 @@ Leetcode and Github
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ayushraj78088/dsa-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ayushraj78088/dsa-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ayushraj78088/dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ayushraj78088/dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushraj78088/dsa-solutions/tree/master/0242-valid-anagram) |
@@ -196,4 +198,8 @@ Leetcode and Github
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayushraj78088/dsa-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ayushraj78088/dsa-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
