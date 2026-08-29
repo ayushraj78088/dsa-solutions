@@ -12,6 +12,7 @@ Leetcode and Github
 | [0049-group-anagrams](https://github.com/ayushraj78088/dsa-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ayushraj78088/dsa-solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/ayushraj78088/dsa-solutions/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushraj78088/dsa-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ayushraj78088/dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ayushraj78088/dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ayushraj78088/dsa-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -189,6 +190,7 @@ Leetcode and Github
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushraj78088/dsa-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushraj78088/dsa-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
 |  |
