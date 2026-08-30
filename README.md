@@ -69,6 +69,7 @@ Leetcode and Github
 | ------- |
 | [0049-group-anagrams](https://github.com/ayushraj78088/dsa-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ayushraj78088/dsa-solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/ayushraj78088/dsa-solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ayushraj78088/dsa-solutions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/ayushraj78088/dsa-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ayushraj78088/dsa-solutions/tree/master/0257-binary-tree-paths) |
@@ -159,6 +160,7 @@ Leetcode and Github
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ayushraj78088/dsa-solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ayushraj78088/dsa-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ayushraj78088/dsa-solutions/tree/master/0344-reverse-string) |
 ## Matrix
 |  |
