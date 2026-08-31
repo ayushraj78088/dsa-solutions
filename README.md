@@ -11,6 +11,7 @@ Leetcode and Github
 | [0048-rotate-image](https://github.com/ayushraj78088/dsa-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ayushraj78088/dsa-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ayushraj78088/dsa-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ayushraj78088/dsa-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ayushraj78088/dsa-solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushraj78088/dsa-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ayushraj78088/dsa-solutions/tree/master/0088-merge-sorted-array) |
@@ -60,6 +61,7 @@ Leetcode and Github
 | ------- |
 | [0049-group-anagrams](https://github.com/ayushraj78088/dsa-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ayushraj78088/dsa-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ayushraj78088/dsa-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ayushraj78088/dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ayushraj78088/dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushraj78088/dsa-solutions/tree/master/0242-valid-anagram) |
@@ -159,6 +161,7 @@ Leetcode and Github
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ayushraj78088/dsa-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ayushraj78088/dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ayushraj78088/dsa-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ayushraj78088/dsa-solutions/tree/master/0344-reverse-string) |
@@ -206,4 +209,9 @@ Leetcode and Github
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ayushraj78088/dsa-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ayushraj78088/dsa-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayushraj78088/dsa-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
