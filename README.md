@@ -55,6 +55,7 @@ Leetcode and Github
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ayushraj78088/dsa-solutions/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/ayushraj78088/dsa-solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ayushraj78088/dsa-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Sorting
 |  |
@@ -80,6 +81,7 @@ Leetcode and Github
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/ayushraj78088/dsa-solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/ayushraj78088/dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
