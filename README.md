@@ -7,6 +7,7 @@ Leetcode and Github
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushraj78088/dsa-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ayushraj78088/dsa-solutions/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/ayushraj78088/dsa-solutions/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/ayushraj78088/dsa-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ayushraj78088/dsa-solutions/tree/master/0049-group-anagrams) |
@@ -163,6 +164,7 @@ Leetcode and Github
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ayushraj78088/dsa-solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/ayushraj78088/dsa-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ayushraj78088/dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ayushraj78088/dsa-solutions/tree/master/0125-valid-palindrome) |
@@ -216,4 +218,8 @@ Leetcode and Github
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayushraj78088/dsa-solutions/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ayushraj78088/dsa-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
