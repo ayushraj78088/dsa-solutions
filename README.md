@@ -30,6 +30,7 @@ Leetcode and Github
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ayushraj78088/dsa-solutions/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/ayushraj78088/dsa-solutions/tree/master/0060-permutation-sequence) |
 | [0509-fibonacci-number](https://github.com/ayushraj78088/dsa-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -40,6 +41,7 @@ Leetcode and Github
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/ayushraj78088/dsa-solutions/tree/master/0060-permutation-sequence) |
 | [0509-fibonacci-number](https://github.com/ayushraj78088/dsa-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
