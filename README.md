@@ -13,6 +13,7 @@ Leetcode and Github
 | [0048-rotate-image](https://github.com/ayushraj78088/dsa-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ayushraj78088/dsa-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ayushraj78088/dsa-solutions/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/ayushraj78088/dsa-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ayushraj78088/dsa-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ayushraj78088/dsa-solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushraj78088/dsa-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -32,6 +33,7 @@ Leetcode and Github
 | ------- |
 | [0048-rotate-image](https://github.com/ayushraj78088/dsa-solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/ayushraj78088/dsa-solutions/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/ayushraj78088/dsa-solutions/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/ayushraj78088/dsa-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
